@@ -14,7 +14,7 @@ namespace Enriquez_GitHub_Calculator_Sample
         {
             return num1 + num2;
 
-            
+           
         }
     }
 }
